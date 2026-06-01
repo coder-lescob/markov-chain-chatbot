@@ -1,158 +1,50 @@
-Algèbre linéaire
+In mathematics, a complex number is an element of a number system that extends the real numbers with a specific element denoted i, called the imaginary unit and satisfying the equation i 2 = − 1 {\displaystyle i^{2}=-1}; because no real number satisfies the above equation, i was called an imaginary number by René Descartes. Every complex number can be expressed in the form a + b i {\displaystyle a+bi}, where a and b are real numbers, a is called the real part, and b is called the imaginary part. The set of complex numbers is denoted by either of the symbols C {\displaystyle \mathbb {C} } or C. Despite the historical nomenclature, "imaginary" complex numbers have a mathematical existence as firm as that of the real numbers, and they are fundamental tools in the scientific description of the natural world.[1][2]
 
-    Article
-    Discussion
+Complex numbers allow solutions to all polynomial equations, even those that have no solutions in real numbers. More precisely, the fundamental theorem of algebra asserts that every non-constant polynomial equation with real or complex coefficients has a solution which is a complex number. For example, the equation ( x + 1 ) 2 = − 9 {\displaystyle (x+1)^{2}=-9} has no real solution, because the square of a real number cannot be negative, but has the two nonreal complex solutions x = − 1 + 3 i {\displaystyle x=-1+3i} and x = − 1 − 3 i {\displaystyle x=-1-3i}.
 
-    Lire
-    Modifier
-    Modifier le code
-    Voir l’historique
+Addition, subtraction and multiplication of complex numbers are defined, taking advantage of the rule i 2 = − 1 {\displaystyle i^{2}=-1}, along with the associative, commutative, and distributive laws. Every nonzero complex number has a multiplicative inverse, allowing division by complex numbers other than zero. This makes the complex numbers a field with the real numbers as a subfield. Because of these properties, ⁠ a + b i = a + i b {\displaystyle a+bi=a+ib}⁠, and which form is written depends upon convention and style considerations.
 
-Outils
+The complex numbers also form a real vector space of dimension two, with { 1 , i } {\displaystyle \{1,i\}} as a standard basis. This standard basis makes the complex numbers a Cartesian plane, called the complex plane. This allows a geometric interpretation of the complex numbers and their operations, and conversely some geometric objects and operations can be expressed in terms of complex numbers. For example, the real numbers form the real line, which is pictured as the horizontal axis of the complex plane, while real multiples of i {\displaystyle i} are the vertical axis. A complex number can also be defined by its geometric polar coordinates: the radius is called the absolute value of the complex number, while the angle from the positive real axis is called the argument of the complex number. The complex numbers of absolute value one form the unit circle. Adding a fixed complex number to all complex numbers defines a translation in the complex plane, and multiplying by a fixed complex number is a similarity centered at the origin (dilating by the absolute value, and rotating by the argument). The operation of complex conjugation is the reflection symmetry with respect to the real axis.
 
-Apparence
-Taille du texte
+The complex numbers form a rich structure that is simultaneously an algebraically closed field, a commutative algebra over the reals, and a Euclidean vector space of dimension two. 
+A complex number is an expression of the form a + bi, where a and b are real numbers, and i is an abstract symbol, the so-called imaginary unit, whose meaning will be explained further below. For example, 2 + 3i is a complex number.[3]
 
-    Petite
-    Standard
-    Grande
+For a complex number a + bi, the real number a is called its real part, and the real number b (not the complex number bi) is its imaginary part.[4][5] The real part of a complex number z is denoted Re(z), R e ( z ) {\displaystyle {\mathcal {Re}}(z)}, or R ( z ) {\displaystyle {\mathfrak {R}}(z)}; the imaginary part is Im(z), I m ( z ) {\displaystyle {\mathcal {Im}}(z)}, or I ( z ) {\displaystyle {\mathfrak {I}}(z)}: for example, Re ⁡ ( 2 + 3 i ) = 2 {\textstyle \operatorname {Re} (2+3i)=2}, Im ⁡ ( 2 + 3 i ) = 3 {\displaystyle \operatorname {Im} (2+3i)=3}.
 
-Largeur
+A complex number z can be identified with the ordered pair of real numbers ( ℜ ( z ) , ℑ ( z ) ) {\displaystyle (\Re (z),\Im (z))}, which may be interpreted as coordinates of a point in a Euclidean plane with standard coordinates, which is then called the complex plane or Argand diagram.[6][7][a] The horizontal axis is generally used to display the real part, with increasing values to the right, and the imaginary part marks the vertical axis, with increasing values upwards.
 
-    Standard
-    Large
+A real number a can be regarded as a complex number a + 0i, whose imaginary part is 0. A purely imaginary number bi is a complex number 0 + bi, whose real part is zero. It is common to write a + 0i = a, 0 + bi = bi, and a + (−b)i = a − bi; for example, 3 + (−4)i = 3 − 4i.
 
-Couleur (bêta)
+The set of all complex numbers is denoted by C {\displaystyle \mathbb {C} } (blackboard bold) or C (upright bold).
 
-    Automatique
-    Clair
-    Sombre
+In some disciplines such as electromagnetism and electrical engineering, j is used instead of i, as i frequently represents electric current,[8][9] and complex numbers are written as a + bj or a + jb. 
+Two complex numbers a = x + y i {\displaystyle a=x+yi} and b = u + v i {\displaystyle b=u+vi} are added by separately adding their real and imaginary parts. That is to say:
 
-Page d’aide sur l’homonymie
+a + b = ( x + y i ) + ( u + v i ) = ( x + u ) + ( y + v ) i . {\displaystyle a+b=(x+yi)+(u+vi)=(x+u)+(y+v)i.} Similarly, subtraction can be performed as a − b = ( x + y i ) − ( u + v i ) = ( x − u ) + ( y − v ) i . {\displaystyle a-b=(x+yi)-(u+vi)=(x-u)+(y-v)i.}
 
-Pour les articles homonymes, voir Algèbre (homonymie).
-Algèbre linéaire
-ℝ³ est un espace vectoriel de dimension 3. Les droites et plans qui passent par l'origine sont des sous-espaces vectoriels.
-Partie de	
-Algèbre
-Objets	
-Espace vectoriel
-application linéaire
-matrice
+The addition can be geometrically visualized as follows: the sum of two complex numbers a and b, interpreted as points in the complex plane, is the point obtained by building a parallelogram from the three vertices O, and the points of the arrows labeled a and b (provided that they are not on a line). Equivalently, calling these points A, B, respectively and the fourth point of the parallelogram X the triangles OAB and XBA are congruent. 
+The product of two complex numbers is computed as follows:
 
-modifier - modifier le code - modifier WikidataDocumentation du modèle
+    ( a + b i ) ⋅ ( c + d i ) = a c − b d + ( a d + b c ) i . {\displaystyle (a+bi)\cdot (c+di)=ac-bd+(ad+bc)i.}
 
-L’algèbre linéaire est la branche des mathématiques qui s'intéresse aux espaces vectoriels et aux transformations linéaires, formalisation générale des théories des systèmes d'équations linéaires.
-Histoire
+For example, ( 2 − i ) ( 3 + 4 i ) = 2 ⋅ 3 − ( ( − 1 ) ⋅ 4 ) + ( 2 ⋅ 4 + ( − 1 ) ⋅ 3 ) i = 10 + 5 i . {\displaystyle (2-i)(3+4i)=2\cdot 3-((-1)\cdot 4)+(2\cdot 4+(-1)\cdot 3)i=10+5i.} In particular, this includes as a special case the fundamental formula
 
-L'algèbre linéaire est initiée dans son principe par le mathématicien perse Al-Khwârizmî qui s'est inspiré des textes de mathématiques indiens et qui a complété les travaux de l'école grecque, laquelle continuera de se développer des siècles durant[1]. Elle a été reprise par René Descartes qui pose des problèmes de géométrie, comme la détermination de l'intersection de deux droites, en termes d'équation linéaire, établissant dès lors un pont entre deux branches mathématiques jusqu'alors séparées : l'algèbre et la géométrie. S'il ne définit pas la notion de base de l'algèbre linéaire qu'est celle d'espace vectoriel, il l'utilise déjà avec succès, et cette utilisation naturelle des aspects linéaires des équations manipulées demeurera utilisée de manière ad hoc, fondée essentiellement sur les idées géométriques sous-jacentes. Après cette découverte, les progrès en algèbre linéaire vont se limiter à des études ponctuelles comme la définition et l'analyse des premières propriétés des déterminants par Jean d'Alembert.
+    i 2 = i ⋅ i = − 1. {\displaystyle i^{2}=i\cdot i=-1.}
 
-Ce n'est qu'au XIXe siècle que l'algèbre linéaire devient une branche des mathématiques à part entière. Carl Friedrich Gauss trouve une méthode générique pour la résolution des systèmes d'équations linéaires et Camille Jordan résout définitivement le problème de la réduction d'endomorphisme. En 1843, William Rowan Hamilton (inventeur du terme vector) découvre les quaternions (extension de degré 4 du corps des nombres réels). En 1844, Hermann Grassmann publie son traité Die lineale Ausdehnungslehre, La théorie de l'extension linéaire, qui est la première tentative de formalisation générale de la notion d'espace vectoriel. Si son œuvre reste grandement inaperçue, elle contient l'essentiel des idées modernes de l'algèbre linéaire, et cette étape fondamentale dans le développement de l'algèbre linéaire est reconnue comme telle tant par Hamilton que par Giuseppe Peano, qui axiomatise entièrement la théorie en 1888. Les espaces vectoriels deviennent alors une structure générale omniprésente dans presque tous les domaines mathématiques, notamment en analyse (espaces de fonctions).
-Intérêt
+This formula distinguishes the complex number i from any real number, since the square of any (negative or positive) real number is always a non-negative real number.
 
-Sous leur forme la plus simple, les applications linéaires dans les espaces vectoriels représentent intuitivement les déplacements dans les espaces géométriques élémentaires comme la droite, le plan ou notre espace physique. Les bases de cette théorie remplacent maintenant la représentation construite par Euclide au IIIe siècle av. J.-C. La construction moderne permet de généraliser la notion d'espace à des dimensions quelconques.
+With this definition of multiplication and addition, familiar rules for the arithmetic of rational or real numbers continue to hold for complex numbers. More precisely, the distributive property, the commutative properties (of addition and multiplication) hold. Therefore, the complex numbers form an algebraic structure known as a field, the same way as the rational or real numbers do.[10] 
+The complex conjugate of the complex number z = x + yi is defined as z ¯ = x − y i . {\displaystyle {\overline {z}}=x-yi.}[11] It is also denoted by some authors by z ∗ {\displaystyle z^{*}}. Geometrically, z is the "reflection" of z about the real axis. Conjugating twice gives the original complex number: z ¯ ¯ = z . {\displaystyle {\overline {\overline {z}}}=z.} A complex number is real if and only if it equals its own conjugate. The unary operation of taking the complex conjugate of a complex number cannot be expressed by applying only the basic operations of addition, subtraction, multiplication and division.
+Argument φ and modulus r locate a point in the complex plane.
 
-L'algèbre linéaire permet de résoudre tout un ensemble d'équations dites linéaires utilisées non seulement en mathématiques ou en mécanique, mais aussi dans de nombreuses autres branches comme les sciences naturelles ou les sciences sociales.
+For any complex number z = x + yi , the product
 
-Les espaces vectoriels forment aussi un outil fondamental pour les sciences de l'ingénieur et servent de base à de nombreux domaines dans la recherche opérationnelle.
+    z ⋅ z ¯ = ( x + i y ) ( x − i y ) = x 2 + y 2 {\displaystyle z\cdot {\overline {z}}=(x+iy)(x-iy)=x^{2}+y^{2}}
 
-Enfin, c'est un outil utilisé en mathématiques dans des domaines aussi divers que la théorie des groupes, des anneaux ou des corps, l'analyse fonctionnelle, la géométrie différentielle ou la théorie des nombres.
-Présentation élémentaire
+is a non-negative real number. This allows to define the absolute value (or modulus or magnitude) of z to be the square root[12] | z | = x 2 + y 2 . {\displaystyle |z|={\sqrt {x^{2}+y^{2}}}.} By Pythagoras' theorem, | z | {\displaystyle |z|} is the distance from the origin to the point representing the complex number z in the complex plane. In particular, the circle of radius one around the origin consists precisely of the numbers z such that | z | = 1 {\displaystyle |z|=1}, known as the unit complex numbers. If z = x = x + 0 i {\displaystyle z=x=x+0i} is a real number, then | z | = | x | {\displaystyle |z|=|x|}: its absolute value as a complex number and as a real number are equal.
 
-L'algèbre linéaire commence par l'étude de vecteurs dans les espaces cartésiens de dimension 2 et 3. Un vecteur, ici, est une classe d'équivalence de bipoints qui unifie les segments de droite caractérisés à la fois par leur longueur (ou norme), leur direction et leur sens : deux bipoints représentent un même vecteur si le quadrilatère formé sur les quatre points est un parallélogramme. Les vecteurs peuvent alors être utilisés pour représenter certaines entités physiques comme des déplacements, additionnés entre eux ou encore multipliés par des scalaires (nombres), formant ainsi le premier exemple concret d'espace vectoriel.
+Using the conjugate, the reciprocal of a nonzero complex number z = x + y i {\displaystyle z=x+yi} can be computed to be
 
-L'algèbre linéaire moderne s'intéresse beaucoup aux espaces de dimension arbitraire, éventuellement infinie. La plupart des résultats obtenus en dimension 2 ou 3 peuvent être étendus aux dimensions finies supérieures, ce qui permet une interprétation géométrique de listes de nombres (une liste de n nombres s'interprétant comme un vecteur d'un espace à n dimensions).
-Quelques théorèmes
+1 z = z ¯ z z ¯ = z ¯ | z | 2 = x − y i x 2 + y 2 = x x 2 + y 2 − y x 2 + y 2 i . {\displaystyle {\frac {1}{z}}={\frac {\bar {z}}{z{\bar {z}}}}={\frac {\bar {z}}{|z|^{2}}}={\frac {x-yi}{x^{2}+y^{2}}}={\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i.} More generally, the division of an arbitrary complex number w = u + v i {\displaystyle w=u+vi} by a non-zero complex number z = x + y i {\displaystyle z=x+yi} equals w z = w z ¯ | z | 2 = ( u + v i ) ( x − i y ) x 2 + y 2 = u x + v y x 2 + y 2 + v x − u y x 2 + y 2 i . {\displaystyle {\frac {w}{z}}={\frac {w{\bar {z}}}{|z|^{2}}}={\frac {(u+vi)(x-iy)}{x^{2}+y^{2}}}={\frac {ux+vy}{x^{2}+y^{2}}}+{\frac {vx-uy}{x^{2}+y^{2}}}i.} This process is sometimes called "rationalization" of the denominator (although the denominator in the final expression may be an irrational real number), because it resembles the method to remove roots from simple expressions in a denominator.[13][14]
 
-    Théorème de la base incomplète[2] : soient E un espace vectoriel, G une famille génératrice de E et L une famille libre de vecteurs de E. Alors il existe au moins une base de E formée en prenant la réunion de L et d'une partie de G.
-    En particulier, tout espace vectoriel possède au moins une base.
-    Toutes les bases d'un même espace vectoriel ont le même cardinal.
-    Tout espace vectoriel A possède un espace dual A* ; si A est de dimension finie, A* est de même dimension.
-    Formule de Grassmann : Soient F {\displaystyle F} et G {\displaystyle G} deux sous-espaces vectoriels d'un même espace vectoriel. On a alors :
-    dim ⁡ ( F ) + dim ⁡ ( G ) = dim ⁡ ( F + G ) + dim ⁡ ( F ∩ G ) . {\displaystyle \dim(F)+\dim(G)=\dim(F+G)+\dim(F\cap G).}
-
-D'autres théorèmes concernent les conditions d'inversion de matrices de divers types :
-
-    matrice diagonale ;
-    matrice triangulaire ;
-    matrice à diagonale dominante.
-
-Un théorème intéressant à l'époque des mémoires d'ordinateurs de petite taille était qu'on pouvait travailler séparément sur des sous-ensembles (« blocs ») d'une matrice en les combinant ensuite par les mêmes règles qu'on utilise pour combiner des scalaires dans les matrices (cf. l’article Matrice par blocs). Avec les mémoires actuelles de plusieurs gigaoctets, cette question a perdu un peu de son intérêt pratique, mais reste très prisée en théorie des nombres, pour la décomposition en produit de facteurs premiers avec le crible général de corps de nombres (algorithme de Lanczos).
-Utilisations
-
-Les espaces vectoriels forment le support et le fondement de l'algèbre linéaire. Ils sont aussi présents dans de nombreux domaines distincts. S'il n'est pas possible d'indiquer ici tous les cas d'utilisation, on peut tout de même citer pour les principales structures objet de théories, des exemples significatifs. Leurs rôles dans de vastes théories ne traitant pas d'une structure particulière, comme celles des nombres algébriques ou de Galois peuvent aussi être évoqués.
-
-Les espaces vectoriels utilisés sont d'une grande diversité. On y trouve les classiques espaces vectoriels de dimension 2 ou 3 sur les nombres réels, cependant la dimension peut être quelconque, même infinie. Les nombres complexes sont aussi très utilisés, ainsi que les rationnels. Il n'est pas rare qu'une partie des nombres réels ou complexes soit considéré comme un espace vectoriel rationnel. Le corps de base peut aussi contenir un nombre fini d'éléments, définissant parfois un espace vectoriel fini.
-
-Les propriétés géométriques de la structure permettent la démonstration de nombreux théorèmes. Elles ne se limitent pas aux cas où l'espace est réel, même dans le cas de corps plus insolites comme les corps finis ou les extensions finies des rationnels, les propriétés géométriques s'avèrent parfois essentielles.
-Groupe fini
-Article détaillé : Représentations d'un groupe fini.
-Représentation du groupe symétrique d'indice 4 comme groupe des rotations du cube dans un espace vectoriel de dimension 3.
-
-La classification des groupes finis est une vaste question, encore objet de recherche. Si le groupe contient un petit nombre d'éléments, les théorèmes de Sylow peuvent suffire pour en déterminer la structure. Une méthode beaucoup plus puissante est nécessaire dans le cas général.
-
-Georg Frobenius, à la suite de travaux de Richard Dedekind, développe une nouvelle théorie[3] en 1896. Elle se fonde sur l'idée que l'ensemble des « symétries » (au sens : automorphismes) d'un espace vectoriel possède une structure de groupe. Il est toujours possible de représenter un groupe fini par des « symétries » bien choisies sur un espace vectoriel de dimension suffisante. Un groupe est ainsi incarné par des transformations géométriques simples. Une telle incarnation prend le nom de représentation d'un groupe.
-
-Les espaces vectoriels choisis sont de dimension finie, en général sur le corps des complexes[4], cependant pour disposer de bonnes propriétés arithmétiques le corps peut être celui des rationnels[5] ou encore utiliser des entiers algébriques comme pour la démonstration du théorème de Burnside sur les groupes résolubles[6]. Richard Brauer étudie un cas très abstrait, celui des représentations sur un espace vectoriel construit à l'aide d'un corps fini[7].
-
-Un exemple relativement simple d'utilisation de cette théorie est donné par Burnside, avec son théorème sur les sous-groupes d'exposant fini du groupe linéaire GL(n, ℂ).
-Anneau
-Article détaillé : Théorie des anneaux.
-Emmy Noether utilise la notion d'espace vectoriel pour étudier les anneaux portant maintenant son nom.
-
-Un exemple célèbre d'anneau disposant aussi d'une structure d'espace vectoriel est celui des polynômes à coefficients dans un corps. Cet espace vectoriel, de dimension infinie, est largement utilisé en algèbre linéaire, à travers par exemple le polynôme minimal ou caractéristique. Le morphisme canonique entre les polynômes et les applications linéaires d'un espace vectoriel est à l'origine d'une structure d'algèbre qui est un anneau, si la multiplication externe est oubliée.
-
-Cette méthode permet d'élucider la structure de certains anneaux. Tout anneau est un espace vectoriel sur ceux de ses sous-anneaux qui sont des corps. L'espace vectoriel ressemble à la structure développée par Grassman. Cette remarque est utilisée au début du XXe siècle, en particulier par Emil Artin et Emmy Noether, pour élucider cette structure dans le cas des anneaux artiniens et noethériens, qui sont des copies de sous-algèbres sur un espace vectoriel construit sur sous-anneau qui s'avère être un corps.
-
-Un exemple est la généralisation d'un théorème de Wedderburn par Artin et portant maintenant le nom de théorème d'Artin-Wedderburn. Il est important en algèbre non commutative.
-
-Un lemme élémentaire permet par ailleurs d'interpréter le corps des quaternions comme l'algèbre des endomorphismes d'une représentation réelle de degré 4 du groupe associé.
-Théorie de Galois
-Article détaillé : Théorie de Galois.
-La théorie de Galois permet de déterminer quels polygones réguliers sont constructibles à la règle et au compas. Le pentagone en fait partie.
-
-La théorie de Galois contient de nombreux exemples d'espaces vectoriels. Elle consiste à étudier un corps comme un espace vectoriel sur un sous-corps. Ainsi chaque sous-corps permet de considérer la structure initiale comme un espace vectoriel particulier.
-
-Un exemple d'application est celui des figures constructible à la règle et au compas. Ces points forment un corps disposant d'une structure d'espace vectoriel sur les nombres rationnels. Il est de dimension infinie et, pour chaque point, le plus petit sous-corps le contenant est de dimension finie égale à une puissance de 2. Un tel sous-corps est appelé une tour d'extensions quadratiques. Cette propriété de ces espaces vectoriels permet de résoudre d'antiques conjectures comme la duplication du cube, la trisection de l'angle ou la construction d'un polygone régulier.
-
-L'exemple historique de la théorie est celui de la résolution d'une équation polynomiale. Le théorème d'Abel donne une condition nécessaire et suffisante de résolution par radicaux. Les espaces vectoriels utilisés ont pour éléments ceux du plus petit corps L contenant tous les coefficients du polynôme ainsi que ses racines et le corps sous-jacent est un sous-corps K du premier contenant tous les coefficients. Le groupe de Galois est composé des automorphismes du corps L qui laissent invariant le corps K. Ces automorphismes sont en nombre fini et sont des automorphismes du K-espace vectoriel L. L'élément clé de la démonstration montre que l'équation est résoluble seulement si ces automorphismes sont diagonalisables.
-Notes et références
-
-    Roshdi Rashed, D'Al Khwarizmi à Descartes, Étude sur l'histoire des mathématiques classiques, Hermann, 2011
-    Dans le cas où G est infinie, ce théorème utilise l'axiome du choix, qui intervient de même dans les énoncés suivants en dimension infinie.
-    (en) C. W. Curtis, « Representation theory of finite groups, from Frobenius to Brauer », dans Math. Intelligencer, 1992, p. 48-57
-    Les 11 premiers chapitres de Jean-Pierre Serre, Représentations linéaires des groupes finis [détail des éditions] ne concernent que les espaces vectoriels complexes.
-    (en) Walter Feit, Characters of finite groups, Benjamin, 1967
-    (en) William Burnside, Theory of Groups of Finite Order, Dover, 2004
-    (de) Richard Brauer, « Über die Darstellung von Gruppen in Galoisschen Feldern », dans Act. Sci. Ind., vol. 195, 1935
-
-Bibliographie
-
-    Vincent Blanloeil, Une introduction moderne à l’algèbre linéaire, Ellipses, 2012
-    Roger Mansuy et Rached Mneimné, Algèbre linéaire - Réduction des endomorphismes, Vuibert, 2012
-
-Voir aussi
-
-Sur les autres projets Wikimedia :
-
-    Algèbre linéaire, sur Wikimedia Commons
-    algèbre linéaire, sur le Wiktionnaire
-    Algèbre linéaire, sur Wikiversity
-    Algèbre linéaire, sur Wikibooks
-
-Articles connexes
-
-    Propriétés métriques des droites et plans
-    Algèbre générale
-    Algèbre multilinéaire
-    Loi d'inertie de Sylvester
-    Optimisation linéaire
-    Algorithme de Bartels-Stewart
-
-Liens externes
-
-    (en) Linear Algebra [archive] par Elmer G. Wiens
-    Les cours du ROSO, dont de l'Algèbre linéaire
-    Braise : la base raisonnée d'exercices de mathématiques et son chapitre sur l'Algèbre linéaire [archive]
-    (en) 3Blue1Brown, « Essence of linear algebra [archive] », sur YouTube (consulté le 12 juin 2018)
-    chaîne dont le but est « d'animer les intuitions géométriques soustendant de nombreux sujets enseignés dans les cours habituels d'algèbre linéaire. »
+The argument of z (sometimes called the "phase" φ)[7] is the angle of the radius Oz with the positive real axis, and is written as arg z, expressed in radians in this article. The angle is defined only up to adding integer multiples of 2 π {\displaystyle 2\pi }, since a rotation by 2 π {\displaystyle 2\pi } (or 360°) around the origin leaves all points in the complex plane unchanged. One possible choice to uniquely specify the argument is to require it to be within the interval ( − π , π ] {\displaystyle (-\pi ,\pi ]}, which is referred to as the principal value.[15] The argument can be computed from the rectangular form x + yi by means of the arctan (inverse tangent) function.[16] 

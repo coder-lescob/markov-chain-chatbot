@@ -37,13 +37,13 @@ class ChatBot:
         
         if self.dictionnary[last_idx].next_words.__len__() == 0:
             self.finish_generation = True
-            return ".\n"
+            return ""
 
         weights = [probability for _, probability in self.dictionnary[last_idx].next_words.values()]
         choices = random.choices(list(self.dictionnary[last_idx].next_words.keys()), weights)
         if choices == []:
             self.finish_generation = True
-            return ".\n"
+            return ""
         
         #print(choices)
         next_idx = int(random.choice(choices))
@@ -57,7 +57,11 @@ def main():
     bot = ChatBot()
 
     while not bot.finish_generation:
-        print(bot.predict_next_word(), end=" ")
+        next_word = bot.predict_next_word()
+        if next_word == "eof":
+            print(".")
+            break
+        print(next_word, end=" ")
 
 if __name__ == "__main__":
     main()

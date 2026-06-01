@@ -22,7 +22,7 @@ class MarkovChainAnalyser:
             .replace(".", " . ")\
             .replace("!", " ! ")\
             .replace("?", " ? ")\
-            .replace("'", " ' ")\
+            .replace("'", "' ")\
             .replace("(", " ( ")\
             .replace(")", " ) ")\
             .split()

@@ -1,3 +1,47 @@
+Algèbre linéaire
+
+    Article
+    Discussion
+
+    Lire
+    Modifier
+    Modifier le code
+    Voir l’historique
+
+Outils
+
+Apparence
+Taille du texte
+
+    Petite
+    Standard
+    Grande
+
+Largeur
+
+    Standard
+    Large
+
+Couleur (bêta)
+
+    Automatique
+    Clair
+    Sombre
+
+Page d’aide sur l’homonymie
+
+Pour les articles homonymes, voir Algèbre (homonymie).
+Algèbre linéaire
+ℝ³ est un espace vectoriel de dimension 3. Les droites et plans qui passent par l'origine sont des sous-espaces vectoriels.
+Partie de	
+Algèbre
+Objets	
+Espace vectoriel
+application linéaire
+matrice
+
+modifier - modifier le code - modifier WikidataDocumentation du modèle
+
 L’algèbre linéaire est la branche des mathématiques qui s'intéresse aux espaces vectoriels et aux transformations linéaires, formalisation générale des théories des systèmes d'équations linéaires.
 Histoire
 
@@ -51,4 +95,64 @@ Georg Frobenius, à la suite de travaux de Richard Dedekind, développe une nouv
 
 Les espaces vectoriels choisis sont de dimension finie, en général sur le corps des complexes[4], cependant pour disposer de bonnes propriétés arithmétiques le corps peut être celui des rationnels[5] ou encore utiliser des entiers algébriques comme pour la démonstration du théorème de Burnside sur les groupes résolubles[6]. Richard Brauer étudie un cas très abstrait, celui des représentations sur un espace vectoriel construit à l'aide d'un corps fini[7].
 
-Un exemple relativement simple d'utilisation de cette théorie est donné par Burnside, avec son théorème sur les sous-groupes d'exposant fini du groupe linéaire GL(n, ℂ). 
+Un exemple relativement simple d'utilisation de cette théorie est donné par Burnside, avec son théorème sur les sous-groupes d'exposant fini du groupe linéaire GL(n, ℂ).
+Anneau
+Article détaillé : Théorie des anneaux.
+Emmy Noether utilise la notion d'espace vectoriel pour étudier les anneaux portant maintenant son nom.
+
+Un exemple célèbre d'anneau disposant aussi d'une structure d'espace vectoriel est celui des polynômes à coefficients dans un corps. Cet espace vectoriel, de dimension infinie, est largement utilisé en algèbre linéaire, à travers par exemple le polynôme minimal ou caractéristique. Le morphisme canonique entre les polynômes et les applications linéaires d'un espace vectoriel est à l'origine d'une structure d'algèbre qui est un anneau, si la multiplication externe est oubliée.
+
+Cette méthode permet d'élucider la structure de certains anneaux. Tout anneau est un espace vectoriel sur ceux de ses sous-anneaux qui sont des corps. L'espace vectoriel ressemble à la structure développée par Grassman. Cette remarque est utilisée au début du XXe siècle, en particulier par Emil Artin et Emmy Noether, pour élucider cette structure dans le cas des anneaux artiniens et noethériens, qui sont des copies de sous-algèbres sur un espace vectoriel construit sur sous-anneau qui s'avère être un corps.
+
+Un exemple est la généralisation d'un théorème de Wedderburn par Artin et portant maintenant le nom de théorème d'Artin-Wedderburn. Il est important en algèbre non commutative.
+
+Un lemme élémentaire permet par ailleurs d'interpréter le corps des quaternions comme l'algèbre des endomorphismes d'une représentation réelle de degré 4 du groupe associé.
+Théorie de Galois
+Article détaillé : Théorie de Galois.
+La théorie de Galois permet de déterminer quels polygones réguliers sont constructibles à la règle et au compas. Le pentagone en fait partie.
+
+La théorie de Galois contient de nombreux exemples d'espaces vectoriels. Elle consiste à étudier un corps comme un espace vectoriel sur un sous-corps. Ainsi chaque sous-corps permet de considérer la structure initiale comme un espace vectoriel particulier.
+
+Un exemple d'application est celui des figures constructible à la règle et au compas. Ces points forment un corps disposant d'une structure d'espace vectoriel sur les nombres rationnels. Il est de dimension infinie et, pour chaque point, le plus petit sous-corps le contenant est de dimension finie égale à une puissance de 2. Un tel sous-corps est appelé une tour d'extensions quadratiques. Cette propriété de ces espaces vectoriels permet de résoudre d'antiques conjectures comme la duplication du cube, la trisection de l'angle ou la construction d'un polygone régulier.
+
+L'exemple historique de la théorie est celui de la résolution d'une équation polynomiale. Le théorème d'Abel donne une condition nécessaire et suffisante de résolution par radicaux. Les espaces vectoriels utilisés ont pour éléments ceux du plus petit corps L contenant tous les coefficients du polynôme ainsi que ses racines et le corps sous-jacent est un sous-corps K du premier contenant tous les coefficients. Le groupe de Galois est composé des automorphismes du corps L qui laissent invariant le corps K. Ces automorphismes sont en nombre fini et sont des automorphismes du K-espace vectoriel L. L'élément clé de la démonstration montre que l'équation est résoluble seulement si ces automorphismes sont diagonalisables.
+Notes et références
+
+    Roshdi Rashed, D'Al Khwarizmi à Descartes, Étude sur l'histoire des mathématiques classiques, Hermann, 2011
+    Dans le cas où G est infinie, ce théorème utilise l'axiome du choix, qui intervient de même dans les énoncés suivants en dimension infinie.
+    (en) C. W. Curtis, « Representation theory of finite groups, from Frobenius to Brauer », dans Math. Intelligencer, 1992, p. 48-57
+    Les 11 premiers chapitres de Jean-Pierre Serre, Représentations linéaires des groupes finis [détail des éditions] ne concernent que les espaces vectoriels complexes.
+    (en) Walter Feit, Characters of finite groups, Benjamin, 1967
+    (en) William Burnside, Theory of Groups of Finite Order, Dover, 2004
+    (de) Richard Brauer, « Über die Darstellung von Gruppen in Galoisschen Feldern », dans Act. Sci. Ind., vol. 195, 1935
+
+Bibliographie
+
+    Vincent Blanloeil, Une introduction moderne à l’algèbre linéaire, Ellipses, 2012
+    Roger Mansuy et Rached Mneimné, Algèbre linéaire - Réduction des endomorphismes, Vuibert, 2012
+
+Voir aussi
+
+Sur les autres projets Wikimedia :
+
+    Algèbre linéaire, sur Wikimedia Commons
+    algèbre linéaire, sur le Wiktionnaire
+    Algèbre linéaire, sur Wikiversity
+    Algèbre linéaire, sur Wikibooks
+
+Articles connexes
+
+    Propriétés métriques des droites et plans
+    Algèbre générale
+    Algèbre multilinéaire
+    Loi d'inertie de Sylvester
+    Optimisation linéaire
+    Algorithme de Bartels-Stewart
+
+Liens externes
+
+    (en) Linear Algebra [archive] par Elmer G. Wiens
+    Les cours du ROSO, dont de l'Algèbre linéaire
+    Braise : la base raisonnée d'exercices de mathématiques et son chapitre sur l'Algèbre linéaire [archive]
+    (en) 3Blue1Brown, « Essence of linear algebra [archive] », sur YouTube (consulté le 12 juin 2018)
+    chaîne dont le but est « d'animer les intuitions géométriques soustendant de nombreux sujets enseignés dans les cours habituels d'algèbre linéaire. »

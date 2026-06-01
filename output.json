@@ -1,0 +1,1310 @@
+[
+    {
+        "word": "l",
+        "frequency": 3,
+        "next_words": {
+            "1": [
+                3,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "'",
+        "frequency": 8,
+        "next_words": {
+            "2": [
+                2,
+                0.4
+            ],
+            "6": [
+                1,
+                0.5
+            ],
+            "26": [
+                1,
+                0.3333333333333333
+            ],
+            "79": [
+                1,
+                0.25
+            ],
+            "83": [
+                1,
+                0.16666666666666666
+            ],
+            "106": [
+                1,
+                0.14285714285714285
+            ],
+            "18": [
+                1,
+                0.125
+            ]
+        }
+    },
+    {
+        "word": "alg\u00e8bre",
+        "frequency": 2,
+        "next_words": {
+            "3": [
+                2,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "lin\u00e9aire",
+        "frequency": 2,
+        "next_words": {
+            "4": [
+                1,
+                1.0
+            ],
+            "81": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "commence",
+        "frequency": 1,
+        "next_words": {
+            "5": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "par",
+        "frequency": 3,
+        "next_words": {
+            "0": [
+                1,
+                1.0
+            ],
+            "36": [
+                1,
+                0.5
+            ],
+            "64": [
+                1,
+                0.3333333333333333
+            ]
+        }
+    },
+    {
+        "word": "\u00e9tude",
+        "frequency": 1,
+        "next_words": {
+            "7": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "de",
+        "frequency": 8,
+        "next_words": {
+            "8": [
+                1,
+                1.0
+            ],
+            "13": [
+                2,
+                0.4
+            ],
+            "27": [
+                1,
+                0.3333333333333333
+            ],
+            "31": [
+                1,
+                0.25
+            ],
+            "101": [
+                1,
+                0.16666666666666666
+            ],
+            "102": [
+                1,
+                0.14285714285714285
+            ],
+            "105": [
+                1,
+                0.125
+            ]
+        }
+    },
+    {
+        "word": "vecteurs",
+        "frequency": 2,
+        "next_words": {
+            "9": [
+                1,
+                1.0
+            ],
+            "54": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "dans",
+        "frequency": 1,
+        "next_words": {
+            "10": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "les",
+        "frequency": 4,
+        "next_words": {
+            "11": [
+                1,
+                1.0
+            ],
+            "30": [
+                1,
+                0.5
+            ],
+            "51": [
+                1,
+                0.3333333333333333
+            ],
+            "8": [
+                1,
+                0.25
+            ]
+        }
+    },
+    {
+        "word": "espaces",
+        "frequency": 2,
+        "next_words": {
+            "12": [
+                1,
+                1.0
+            ],
+            "7": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "cart\u00e9siens",
+        "frequency": 1,
+        "next_words": {
+            "7": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "dimension",
+        "frequency": 3,
+        "next_words": {
+            "14": [
+                2,
+                0.6666666666666666
+            ],
+            "86": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "2",
+        "frequency": 2,
+        "next_words": {
+            "15": [
+                1,
+                1.0
+            ],
+            "69": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "et",
+        "frequency": 2,
+        "next_words": {
+            "16": [
+                1,
+                1.0
+            ],
+            "36": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "3",
+        "frequency": 2,
+        "next_words": {
+            "17": [
+                1,
+                1.0
+            ],
+            "54": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": ".",
+        "frequency": 4,
+        "next_words": {
+            "18": [
+                1,
+                1.0
+            ],
+            "10": [
+                1,
+                0.5
+            ],
+            "0": [
+                1,
+                0.3333333333333333
+            ],
+            "34": [
+                1,
+                0.25
+            ]
+        }
+    },
+    {
+        "word": "un",
+        "frequency": 5,
+        "next_words": {
+            "19": [
+                2,
+                0.5
+            ],
+            "45": [
+                1,
+                0.5
+            ],
+            "53": [
+                1,
+                0.3333333333333333
+            ],
+            "79": [
+                1,
+                0.2
+            ]
+        }
+    },
+    {
+        "word": "vecteur",
+        "frequency": 3,
+        "next_words": {
+            "20": [
+                1,
+                1.0
+            ],
+            "46": [
+                1,
+                0.5
+            ],
+            "25": [
+                1,
+                0.3333333333333333
+            ]
+        }
+    },
+    {
+        "word": ",",
+        "frequency": 7,
+        "next_words": {
+            "21": [
+                1,
+                1.0
+            ],
+            "22": [
+                1,
+                0.5
+            ],
+            "36": [
+                1,
+                0.3333333333333333
+            ],
+            "66": [
+                1,
+                0.25
+            ],
+            "74": [
+                1,
+                0.2
+            ],
+            "87": [
+                1,
+                0.16666666666666666
+            ],
+            "97": [
+                1,
+                0.14285714285714285
+            ]
+        }
+    },
+    {
+        "word": "ici",
+        "frequency": 1,
+        "next_words": {
+            "20": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "est",
+        "frequency": 2,
+        "next_words": {
+            "23": [
+                1,
+                1.0
+            ],
+            "18": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "une",
+        "frequency": 2,
+        "next_words": {
+            "24": [
+                1,
+                1.0
+            ],
+            "99": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "classe",
+        "frequency": 1,
+        "next_words": {
+            "25": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "d",
+        "frequency": 3,
+        "next_words": {
+            "1": [
+                3,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "\u00e9quivalence",
+        "frequency": 1,
+        "next_words": {
+            "7": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "bipoints",
+        "frequency": 2,
+        "next_words": {
+            "28": [
+                1,
+                1.0
+            ],
+            "44": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "qui",
+        "frequency": 2,
+        "next_words": {
+            "29": [
+                1,
+                1.0
+            ],
+            "98": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "unifie",
+        "frequency": 1,
+        "next_words": {
+            "10": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "segments",
+        "frequency": 1,
+        "next_words": {
+            "7": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "droite",
+        "frequency": 1,
+        "next_words": {
+            "32": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "caract\u00e9ris\u00e9s",
+        "frequency": 1,
+        "next_words": {
+            "33": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "\u00e0",
+        "frequency": 2,
+        "next_words": {
+            "34": [
+                1,
+                1.0
+            ],
+            "105": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "la",
+        "frequency": 2,
+        "next_words": {
+            "35": [
+                1,
+                1.0
+            ],
+            "89": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "fois",
+        "frequency": 1,
+        "next_words": {
+            "5": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "leur",
+        "frequency": 3,
+        "next_words": {
+            "37": [
+                1,
+                1.0
+            ],
+            "40": [
+                1,
+                0.5
+            ],
+            "41": [
+                1,
+                0.3333333333333333
+            ]
+        }
+    },
+    {
+        "word": "longueur",
+        "frequency": 1,
+        "next_words": {
+            "38": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "(ou",
+        "frequency": 1,
+        "next_words": {
+            "39": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "norme)",
+        "frequency": 1,
+        "next_words": {
+            "20": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "direction",
+        "frequency": 1,
+        "next_words": {
+            "15": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "sens",
+        "frequency": 1,
+        "next_words": {
+            "42": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": ":",
+        "frequency": 1,
+        "next_words": {
+            "43": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "deux",
+        "frequency": 1,
+        "next_words": {
+            "27": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "repr\u00e9sentent",
+        "frequency": 1,
+        "next_words": {
+            "18": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "m\u00eame",
+        "frequency": 1,
+        "next_words": {
+            "19": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "si",
+        "frequency": 1,
+        "next_words": {
+            "47": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "le",
+        "frequency": 2,
+        "next_words": {
+            "48": [
+                1,
+                1.0
+            ],
+            "76": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "quadrilat\u00e8re",
+        "frequency": 1,
+        "next_words": {
+            "49": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "form\u00e9",
+        "frequency": 1,
+        "next_words": {
+            "50": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "sur",
+        "frequency": 1,
+        "next_words": {
+            "10": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "quatre",
+        "frequency": 1,
+        "next_words": {
+            "52": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "points",
+        "frequency": 1,
+        "next_words": {
+            "22": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "parall\u00e9logramme",
+        "frequency": 1,
+        "next_words": {
+            "17": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "peuvent",
+        "frequency": 2,
+        "next_words": {
+            "55": [
+                1,
+                1.0
+            ],
+            "56": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "alors",
+        "frequency": 1,
+        "next_words": {
+            "56": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "\u00eatre",
+        "frequency": 2,
+        "next_words": {
+            "57": [
+                1,
+                1.0
+            ],
+            "93": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "utilis\u00e9s",
+        "frequency": 1,
+        "next_words": {
+            "58": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "pour",
+        "frequency": 1,
+        "next_words": {
+            "59": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "repr\u00e9senter",
+        "frequency": 1,
+        "next_words": {
+            "60": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "certaines",
+        "frequency": 1,
+        "next_words": {
+            "61": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "entit\u00e9s",
+        "frequency": 1,
+        "next_words": {
+            "62": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "physiques",
+        "frequency": 1,
+        "next_words": {
+            "63": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "comme",
+        "frequency": 2,
+        "next_words": {
+            "64": [
+                1,
+                1.0
+            ],
+            "18": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "des",
+        "frequency": 3,
+        "next_words": {
+            "65": [
+                1,
+                1.0
+            ],
+            "72": [
+                1,
+                0.5
+            ],
+            "90": [
+                1,
+                0.3333333333333333
+            ]
+        }
+    },
+    {
+        "word": "d\u00e9placements",
+        "frequency": 1,
+        "next_words": {
+            "20": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "additionn\u00e9s",
+        "frequency": 1,
+        "next_words": {
+            "67": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "entre",
+        "frequency": 1,
+        "next_words": {
+            "68": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "eux",
+        "frequency": 1,
+        "next_words": {
+            "69": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "ou",
+        "frequency": 2,
+        "next_words": {
+            "70": [
+                1,
+                1.0
+            ],
+            "16": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "encore",
+        "frequency": 1,
+        "next_words": {
+            "71": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "multipli\u00e9s",
+        "frequency": 1,
+        "next_words": {
+            "5": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "scalaires",
+        "frequency": 1,
+        "next_words": {
+            "73": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "(nombres)",
+        "frequency": 1,
+        "next_words": {
+            "20": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "formant",
+        "frequency": 1,
+        "next_words": {
+            "75": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "ainsi",
+        "frequency": 1,
+        "next_words": {
+            "47": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "premier",
+        "frequency": 1,
+        "next_words": {
+            "77": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "exemple",
+        "frequency": 1,
+        "next_words": {
+            "78": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "concret",
+        "frequency": 1,
+        "next_words": {
+            "25": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "espace",
+        "frequency": 2,
+        "next_words": {
+            "80": [
+                1,
+                1.0
+            ],
+            "33": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "vectoriel",
+        "frequency": 1,
+        "next_words": {
+            "17": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "moderne",
+        "frequency": 1,
+        "next_words": {
+            "82": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "s",
+        "frequency": 2,
+        "next_words": {
+            "1": [
+                2,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "int\u00e9resse",
+        "frequency": 1,
+        "next_words": {
+            "84": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "beaucoup",
+        "frequency": 1,
+        "next_words": {
+            "85": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "aux",
+        "frequency": 2,
+        "next_words": {
+            "11": [
+                1,
+                1.0
+            ],
+            "94": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "arbitraire",
+        "frequency": 1,
+        "next_words": {
+            "20": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "\u00e9ventuellement",
+        "frequency": 1,
+        "next_words": {
+            "88": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "infinie",
+        "frequency": 1,
+        "next_words": {
+            "17": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "plupart",
+        "frequency": 1,
+        "next_words": {
+            "64": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "r\u00e9sultats",
+        "frequency": 1,
+        "next_words": {
+            "91": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "obtenus",
+        "frequency": 1,
+        "next_words": {
+            "92": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "en",
+        "frequency": 1,
+        "next_words": {
+            "13": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "\u00e9tendus",
+        "frequency": 1,
+        "next_words": {
+            "85": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "dimensions",
+        "frequency": 1,
+        "next_words": {
+            "95": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "finies",
+        "frequency": 1,
+        "next_words": {
+            "96": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "sup\u00e9rieures",
+        "frequency": 1,
+        "next_words": {
+            "20": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "ce",
+        "frequency": 1,
+        "next_words": {
+            "28": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "permet",
+        "frequency": 1,
+        "next_words": {
+            "23": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "interpr\u00e9tation",
+        "frequency": 1,
+        "next_words": {
+            "100": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "g\u00e9om\u00e9trique",
+        "frequency": 1,
+        "next_words": {
+            "7": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "listes",
+        "frequency": 1,
+        "next_words": {
+            "7": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "nombres",
+        "frequency": 2,
+        "next_words": {
+            "103": [
+                1,
+                1.0
+            ],
+            "82": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "(une",
+        "frequency": 1,
+        "next_words": {
+            "104": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "liste",
+        "frequency": 1,
+        "next_words": {
+            "7": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "n",
+        "frequency": 2,
+        "next_words": {
+            "102": [
+                1,
+                1.0
+            ],
+            "107": [
+                1,
+                0.5
+            ]
+        }
+    },
+    {
+        "word": "interpr\u00e9tant",
+        "frequency": 1,
+        "next_words": {
+            "63": [
+                1,
+                1.0
+            ]
+        }
+    },
+    {
+        "word": "dimensions)",
+        "frequency": 1,
+        "next_words": {
+            "17": [
+                1,
+                1.0
+            ]
+        }
+    }
+]

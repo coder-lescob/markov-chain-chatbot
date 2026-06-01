@@ -45,23 +45,22 @@ class ChatBot:
             self.finish_generation = True
             return ""
         
-        #print(choices)
         next_idx = int(random.choice(choices))
 
         next_word = self.dictionnary[next_idx].word
         self.last_word = next_word
 
-        return next_word
+        return f"{next_word} "
 
 def main():
     bot = ChatBot()
 
     while not bot.finish_generation:
         next_word = bot.predict_next_word()
-        if next_word == "eof":
-            print(".")
+        if next_word.strip() == "eof":
+            print("")
             break
-        print(next_word, end=" ")
+        print(next_word, end="")
 
 if __name__ == "__main__":
     main()

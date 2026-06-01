@@ -1,14 +1,5 @@
-from dataclasses import dataclass
+from _token import Token
 import json
-
-type freq = float
-type proba = float
-
-@dataclass
-class Token:
-    word: str
-    frequency: freq
-    next_words: dict[int, list[freq | proba]]
 
 class MarkovChainAnalyser:
     dictionnary: list[Token]
@@ -25,7 +16,18 @@ class MarkovChainAnalyser:
         return -1
 
     def analyse_text(self, text: str):
-        words = text.lower().replace(",", " , ").replace(".", " . ").replace("!", " ! ").replace("?", " ? ").replace("'", " ' ").split()
+        words = text \
+            .lower() \
+            .replace(",", " , ")\
+            .replace(".", " . ")\
+            .replace("!", " ! ")\
+            .replace("?", " ? ")\
+            .replace("'", " ' ")\
+            .replace("(", " ( ")\
+            .replace(")", " ) ")\
+            .split()
+        words.insert(0, "")
+        words.append("eof")
 
         for word, next_word in zip(words, words[1::]):
             if (i := self.idx_of_word_in_dict(word)) == -1:

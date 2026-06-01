@@ -48,3 +48,110 @@ Using the conjugate, the reciprocal of a nonzero complex number z = x + y i {\di
 1 z = z ¯ z z ¯ = z ¯ | z | 2 = x − y i x 2 + y 2 = x x 2 + y 2 − y x 2 + y 2 i . {\displaystyle {\frac {1}{z}}={\frac {\bar {z}}{z{\bar {z}}}}={\frac {\bar {z}}{|z|^{2}}}={\frac {x-yi}{x^{2}+y^{2}}}={\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i.} More generally, the division of an arbitrary complex number w = u + v i {\displaystyle w=u+vi} by a non-zero complex number z = x + y i {\displaystyle z=x+yi} equals w z = w z ¯ | z | 2 = ( u + v i ) ( x − i y ) x 2 + y 2 = u x + v y x 2 + y 2 + v x − u y x 2 + y 2 i . {\displaystyle {\frac {w}{z}}={\frac {w{\bar {z}}}{|z|^{2}}}={\frac {(u+vi)(x-iy)}{x^{2}+y^{2}}}={\frac {ux+vy}{x^{2}+y^{2}}}+{\frac {vx-uy}{x^{2}+y^{2}}}i.} This process is sometimes called "rationalization" of the denominator (although the denominator in the final expression may be an irrational real number), because it resembles the method to remove roots from simple expressions in a denominator.[13][14]
 
 The argument of z (sometimes called the "phase" φ)[7] is the angle of the radius Oz with the positive real axis, and is written as arg z, expressed in radians in this article. The angle is defined only up to adding integer multiples of 2 π {\displaystyle 2\pi }, since a rotation by 2 π {\displaystyle 2\pi } (or 360°) around the origin leaves all points in the complex plane unchanged. One possible choice to uniquely specify the argument is to require it to be within the interval ( − π , π ] {\displaystyle (-\pi ,\pi ]}, which is referred to as the principal value.[15] The argument can be computed from the rectangular form x + yi by means of the arctan (inverse tangent) function.[16] 
+What is a complex number?
+
+A complex number has the form
+
+z=a+bi
+
+where:
+
+a is the real part
+b is the imaginary part
+i is the imaginary unit, defined by
+
+i
+2
+=−1
+
+No real number has this property, which is why i is introduced.
+
+Examples
+3+2i
+−1+3i
+5−4i
+7 (which can be written as 7+0i)
+Complex Plane
+
+Complex numbers can be represented on a plane called the complex plane:
+
+Horizontal axis = real axis
+Vertical axis = imaginary axis
+
+The number a+bi corresponds to the point (a,b).
+
+For example:
+
+−1+3i
+
+is represented by the point (−1,3).
+
+Complex Conjugate
+
+The complex conjugate of
+
+z=x+yi
+
+is
+
+z
+=x−yi.
+
+Geometrically, this reflects the point across the real axis.
+
+Absolute Value (Magnitude)
+
+For
+
+z=x+yi,
+
+the magnitude is
+
+∣z∣=
+x
+2
++y
+2
+	​
+
+
+which is the distance from the origin to the point (x,y).
+
+Reciprocal of a Complex Number
+
+For a nonzero complex number,
+
+z=x+yi,
+
+its reciprocal is
+
+z
+1
+	​
+
+=
+x
+2
++y
+2
+x−yi
+	​
+
+.
+
+This uses the complex conjugate to remove the imaginary part from the denominator.
+
+Why Complex Numbers Matter
+
+Complex numbers are fundamental in many areas of mathematics and science:
+
+Algebra
+Geometry
+Signal processing
+Electrical engineering
+Quantum mechanics
+Control systems
+
+A major reason they are important is the Fundamental Theorem of Algebra, which states that every non-constant polynomial equation with complex coefficients has at least one complex root.
+
+If your goal is to understand a particular section of the pasted text, I can also rewrite it into clear, readable English or explain any specific formula it contains.

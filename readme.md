@@ -20,7 +20,7 @@ Event with all of that it is still gebrish but that is normal because it only lo
 
 ### Gebrish example
 
-Trained on ["https://en.wikipedia.org/wiki/Complex_number"](this wikipedia article) it gives gebrish but cool one
+Trained on [this wikipedia article]("https://en.wikipedia.org/wiki/Complex_number") it gives gebrish but cool one
 
 in real numbers have no solutions to say: a specific element denoted by either of the symbols c ( \re ( blackboard bold ) is always a number by rené descartes . } or i ) 2 = − 3 i b are congruent . addition and satisfying the complex numbers with real number has no real numbers with real number has a complex plane . it is called the real numbers with increasing values to display the above equation i {\displaystyle i^{2}=-1}; because the origin to the equation with real numbers do . despite the imaginary unit and x + bi , r ( blackboard bold ) 2 π {\displaystyle i^{2}=-1}; because no real solution which may be expressed in particular , and satisfying the scientific description of a + 1 − 9 {\displaystyle i^{2}=-1} , along with { ( upright bold ) 2 ⋅ 3 i } or r e ( x+iy ) i = u y + d i , the original complex conjugate of dimension two , with the absolute value , the distance from any ( 2 + jb . a complex solutions to as the rectangular form the associative , while the square of a complex number system that | z ¯ = 3 i .
 

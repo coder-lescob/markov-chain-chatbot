@@ -5,7 +5,7 @@ type proba = float
 
 @dataclass
 class Token:
-    word: str
+    word: list[str]
     frequency: freq
     next_words: dict[int, list[freq | proba]]
 

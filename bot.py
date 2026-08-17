@@ -15,7 +15,7 @@ class ChatBot:
     def idx_of_word_in_dict(self, searched_word: str) -> int:
         """returns -1 if it is not found"""
         for i, word in enumerate(self.dictionnary):
-            if word.word == searched_word:
+            if word.word[0] == searched_word:
                 return i
             
         return -1
@@ -48,9 +48,9 @@ class ChatBot:
         next_idx = int(random.choice(choices))
 
         next_word = self.dictionnary[next_idx].word
-        self.last_word = next_word
+        self.last_word = next_word[0]
 
-        return f"{next_word} "
+        return f"{next_word[0]} "
 
 def main():
     bot = ChatBot()
